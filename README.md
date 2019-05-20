@@ -2,10 +2,13 @@
 
 ### Libraries
 [C++ FindPattern](https://github.com/igromanru/Cpp-FindPattern)
+[UE4 SDK Helper](https://github.com/igromanru/UE4-SDK-Helper)
+[XorStrEx](https://github.com/igromanru/XorStrEx)
 
 ---
 ### Scripts
-[UE-SDK-Offsets-Updater](https://github.com/igromanru/UE-SDK-Offsets-Updater)
+[UE SDK Offsets Updater AutoIt](https://github.com/igromanru/UE-SDK-Offsets-Updater-AutoIt)
+[UE SDK Offsets Updater](https://github.com/igromanru/UE-SDK-Offsets-Updater)
 
 ---
 ### My GitHub guides
