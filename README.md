@@ -1,9 +1,8 @@
 ## Welcome to my GitHub page
 
 ### Libraries
-[C++ FindPattern](https://github.com/igromanru/Cpp-FindPattern)
-[UE4 SDK Helper](https://github.com/igromanru/UE4-SDK-Helper)
-[XorStrEx](https://github.com/igromanru/XorStrEx)
+[C++ FindPattern](https://github.com/igromanru/Cpp-FindPattern)  
+[UE4 SDK Helper](https://github.com/igromanru/UE4-SDK-Helper)  
 
 ---
 ### Scripts
@@ -13,7 +12,7 @@
 ---
 ### My GitHub guides
 [Dark Souls III Cheat Engine Guide](http://igromanru.github.io/Dark-Souls-III-Cheat-Engine-Guide/)  
-[Ren'Py Games Cheat Guide](https://github.com/igromanru/RenPy-Games-Cheat-Guide)
+[Sea of Thieves SDK Guide](https://github.com/igromanru/SoT-SDK-Guide)
 
 ---
 ### Cheat Engine Lua scripts
@@ -31,7 +30,13 @@
 [Crush Crush](http://fearlessrevolution.com/viewtopic.php?f=4&t=8211)  
 [Super Star](http://fearlessrevolution.com/viewtopic.php?f=4&t=8186)  
 [MONMUSU](http://fearlessrevolution.com/viewtopic.php?f=4&t=8290)  
-
+[Mirror](https://fearlessrevolution.com/viewtopic.php?f=4&t=7937)  
+[Hentai Girl Division](https://fearlessrevolution.com/viewtopic.php?f=4&t=10085)  
+[Hell Girls](https://fearlessrevolution.com/viewtopic.php?f=4&t=8443)  
+[NSFW ~ Not a Simulator For Working](https://fearlessrevolution.com/viewtopic.php?p=72799#p72799)  
+[Necronator: Dead Wrong](https://fearlessrevolution.com/viewtopic.php?f=4&t=14471)  
+[Outer Wilds](https://fearlessrevolution.com/viewtopic.php?f=4&t=14415)  
+[Inscryption](https://fearlessrevolution.com/viewtopic.php?f=4&t=21894)  
 ---
 ### Old Projects
 [AutoPistolEx](https://github.com/igromanru/AutoPistolEx)
