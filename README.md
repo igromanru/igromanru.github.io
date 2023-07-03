@@ -2,7 +2,7 @@
 
 ### Libraries
 [C++ FindPattern](https://github.com/igromanru/Cpp-FindPattern)  
-[UE4 SDK Helper](https://github.com/igromanru/UE4-SDK-Helper)  
+[C# XorString](https://github.com/igromanru/XorCrypt)  
 
 ---
 ### Scripts
