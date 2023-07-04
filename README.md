@@ -47,4 +47,5 @@
 ---
 
 ### Old Projects
-[AutoPistolEx](https://github.com/igromanru/AutoPistolEx)
+[AutoPistolEx](https://github.com/igromanru/AutoPistolEx)  
+[ACNH Turnips Fortune Teller](https://github.com/igromanru/ACNH-Turnips-Fortune-Teller)  
