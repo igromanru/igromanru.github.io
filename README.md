@@ -1,5 +1,9 @@
 ## Welcome to my GitHub page
 
+**Attention! This information is highly outdated and I'm too lazy to update it.**  
+If you search in my [GitHub Repositories](https://github.com/igromanru?tab=repositories), you will find more public work of my.  
+Like mods for several games and other projects. Also meanwhile I've released more CE tables on fearlessrevolution.com.
+
 ### Libraries
 [C++ FindPattern](https://github.com/igromanru/Cpp-FindPattern)  
 [C# XorString](https://github.com/igromanru/XorCrypt)  
